@@ -1,4 +1,4 @@
-### Hi!
+### Hi! 🐙
 - 🥸 I'm a sophomore double major in Philosophy and Computer Science!
 - 🐛 My pronouns are she/her/hers!
 - 🍄 My main languages are currently Python and Swift, but I'm also familiar with C++ and SQL!
