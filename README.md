@@ -3,7 +3,7 @@
 - 🐛 My pronouns are she/her/hers!
 - 🍄 My main languages are currently Python and Swift, but I'm also familiar with C and SQL!
 - 🪷 I'm currently learning Java, C++, and Go!
-- 🐝 My primary interest is iOS Development!
+- 🐝 My primary interest is ~~iOS Development!~~ *I'm honestly not quite sure.*
 
 <!--
 **salemishiding/salemishiding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
