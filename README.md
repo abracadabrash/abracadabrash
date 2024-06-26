@@ -1,9 +1,9 @@
 ### Hi! 🐙
-- 🥸 I'm a sophomore double major in Philosophy and Computer Science!
+- 🥸 I'm a junior double major in Philosophy and Computer Science!
 - 🐛 My pronouns are she/her/hers!
 - 🍄 My main languages are currently Python and Swift, but I'm also familiar with C and SQL!
 - 🪷 I'm currently learning Java, C++, and Go!
-- 🐝 My primary interest is ~~iOS Development!~~ *I'm honestly not quite sure.*
+- 🐝 My primary interest is Data Engineering!
 
 <!--
 **salemishiding/salemishiding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
