@@ -10,4 +10,3 @@
 ### ✨ Currently working on:
 - A **K-Pop music release calendar** project 📅🎶
 - A **diabetes prediction & analysis** project 📊
-- A **reinforcement learning game** 🎮
